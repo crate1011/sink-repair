@@ -1,0 +1,43 @@
+.serviceForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+   
+}
+.field {
+font-size: larger;
+background-color: black;
+color: white;
+margin-top: 2em;
+display: flex;
+justify-content: center;
+flex-direction: column;
+width: 30em;
+}
+
+.button {
+    margin-top: 2em;
+    color: red;
+    width: 10em;
+    background-color: blue;
+    font-size: larger;
+}
+
+body {
+    background-image: url('https://images2.minutemediacdn.com/image/upload/c_crop,w_2121,h_1193,x_0,y_77/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fmentalfloss%2F01g4kfw8ppqvd45pjfaa.jpg')
+}
+
+.plumbers {
+    background-color: black;
+    color: white;
+}
+
+.request {
+background-color: black;
+color: white;
+width: 33em;
+}
